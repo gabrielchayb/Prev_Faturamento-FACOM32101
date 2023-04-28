@@ -9,7 +9,13 @@ Introdução: O projeto consiste em prever a quantidade de vendas de um e-commer
 Métodos: 
 1. Bibliotecas Utilizadas; 
 
+Pandas - Tratamento, leitura e manipulação de dados de maneira efetiva; 
+Matplotlib - Visualização dos dados em gráfico, tabelas de maneira visual; 
+Numpy - Processamento de dados em alto volume e vários tipos;
+
 2. Como funciona o sklearn; 
+
+Sklearn:  
 
 3. Porque o modelo de regressão linear foi escolhido; 
 
