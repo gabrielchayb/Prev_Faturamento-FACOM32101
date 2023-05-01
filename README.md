@@ -17,10 +17,17 @@ Numpy - Processamento de dados em alto volume e vários tipos;
 
 Sklearn:  
 
-3. Porque o modelo de regressão linear foi escolhido; 
+Como uma biblioteca de alto nível, ela permite definir um modelos preditivos de dados em apenas algumas linhas de código. Nesse sentido, o scikit-learn é bem documentado, relativamente fácil de aprender e usar. Ela é ótima para modelos de regressão linear introdutórios ao Data Science e ao Machine Learning.  
 
-4. Porque o modelo de vizualização de dados em gráfico foi escolhido; 
+Porque o modelo de regressão linear foi escolhido: 
 
-5. Projeções para o futuro do projeto; 
+A Regressão linear simples é utilizada em problemas em que queremos identificar um modelo que represente a relação entre duas variáveis, sendo que uma altera o valor da outra de maneira linear. O objetivo é encontrar uma função que expressa essa correspondência. Em sua essência, uma técnica de regressão linear simples tenta traçar um gráfico de linhas entre duas variáveis de dados, x e y. Como variável independente, x é plotada ao longo do eixo horizontal. Variáveis independentes também são chamadas de variáveis explicativas ou variáveis preditoras. A variável dependente, y, é plotada no eixo vertical. Você também pode fazer referência aos valores de y como variáveis de resposta ou variáveis previstas.
+
+Regressão linear simples
+A regressão linear simples é definida pela função linear:
+
+Y= β0*X + β1 + ε 
+
+β0 e β1 são duas constantes desconhecidas que representam a inclinação da regressão, enquanto ε (épsilon) é o termo de erro.
 
 Objetivo: Expôr como funciona na prática um projeto que envolva aprendizado de máquinas com poucas linhas de código, relacionando a metodologia de desenvolvimento de um algoritmo M.P.C e os fundamentos do Data Science da maneira mais didática possível: 1. Ciência da computação; 2. Estatística e Matemática; 3. Negócios e B.I;  
