@@ -1,6 +1,9 @@
 PROJETO DE MACHINE LEARNING - REGRESSÃO LINEAR PARA ESTIMAR QUANTIDADE DE VENDAS 
 
-Gabriel Ribeiro Filice Chayb, Nº 12221BSI233 
+Gabriel Ribeiro Filice Chayb, Universidade Federal de Uberlândia 
+
+Imagina que exista uma empresa que deseja estimar a quantidade de vendas baseado em um investimento que o usuário fornecer com extrema precisão, baseada em campanhas muito similares do passado. De maneira simplista, o modelo analisa esses dados e calcula de maneira gráfica e númerica quantas vendas a empresa irá realizar, além de seu faturamento e retorno sobre o investimento.
+
 
 Considerações iniciais: Projeto desenvolvido para exemplificar conceitos de Machine Learning e M.P.C para o trabalho de Informática e Ética - FACOM32101 - utiliza-se uma base de dados totalmente fictícia. Todo o algoritmo foi desenvolvido com o objetivo apenas educativo. Portanto, o código é aberto e qualquer pessoa pode utilizá-lo de qualquer maneira.
 
